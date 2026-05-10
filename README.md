@@ -7,7 +7,7 @@ This repository contains the complete code and data for the NorthStar Urban Mobi
 📅 **Date:**  05/05/2026  
 🎓 **Course:** Databases and Analytics (DBA)  
 
-**Final Report:** [.pdf](MohammedAmaanDanish_32147390_DBA_Report.pdf)
+**Final Report:** [MohammedAmaanDanish_32147390_DBA_Report.pdf](MohammedAmaanDanish_32147390_DBA_Report.pdf)
 
 ## Repository Structure
 DBA_ASSIGNMENT/
