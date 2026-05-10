@@ -18,30 +18,24 @@ The final output is a **master dataset** (`orders_full_final.csv`) and an invest
 
 ---
 
-## 2. Repository Structure
 DBA_ASSIGNMENT/
-│
-├── README.md # This file
-├── requirements.txt # Python dependencies
-├── MohammedAmaanDanish_3214730_DBA.pdf # Final report 
-│
-├── notebooks/
-│ └── DBA_Northstar.ipynb # Complete Google Colab notebook (all code)
-│
-├── data/ # Raw source datasets (9 CSV files)
-│ ├── customers.csv
-│ ├── orders.csv
-│ ├── deliveries.csv
-│ ├── drivers.csv
-│ ├── vehicles.csv
-│ ├── hubs.csv
-│ ├── incidents.csv
-│ ├── complaints.csv
-│ └── app_events.csv
-│
-└──Merged_dataset 
-   └── orders_full_final.csv # Master Dataset
-   
+├── README.md
+├── requirements.txt
+├── MohammedAmaanDanish_3214730_DBA.pdf
+├── Google_Colab_Notebook/
+│   └── DBA_Northstar.ipynb
+├── data/
+│   ├── customers.csv
+│   ├── orders.csv
+│   ├── deliveries.csv
+│   ├── drivers.csv
+│   ├── vehicles.csv
+│   ├── hubs.csv
+│   ├── incidents.csv
+│   ├── complaints.csv
+│   └── app_events.csv
+└── Merged_dataset/
+    └── orders_full_final.csv
 ---
 
 ## 3. Setup and Installation
