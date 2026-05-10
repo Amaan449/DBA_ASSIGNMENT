@@ -17,7 +17,7 @@ This project investigates **why** performance is deteriorating and **how** North
 The final output is a **master dataset** (`orders_full_final.csv`) and an investigative report that identifies root causes and makes actionable recommendations.
 
 ---
-
+## 2. Repository Structure
 DBA_ASSIGNMENT/
 ├── README.md
 ├── requirements.txt
