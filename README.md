@@ -17,6 +17,7 @@ This project investigates **why** performance is deteriorating and **how** North
 The final output is a **master dataset** (`orders_full_final.csv`) and an investigative report that identifies root causes and makes actionable recommendations.
 
 ---
+tree/F
 
 DBA_ASSIGNMENT/
 ├── README.md
@@ -36,7 +37,6 @@ DBA_ASSIGNMENT/
 │   └── app_events.csv
 └── Merged_dataset/
     └── orders_full_final.csv
-    tree/F
 ---
 
 ## 3. Setup and Installation
