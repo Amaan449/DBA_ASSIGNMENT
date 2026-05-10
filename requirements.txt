@@ -1,1 +1,21 @@
+# Core data manipulation and analysis
+pandas==2.0.3
+numpy==1.24.3
 
+# Data visualisation
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# MongoDB interaction
+pymongo==4.5.0
+dnspython==2.4.2
+
+# R integration within Python (rpy2)
+rpy2==3.5.11
+
+# Additional utilities (for potential date handling, etc.)
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Optional: for reading Excel files if needed (not used in main analysis)
+openpyxl==3.1.2
