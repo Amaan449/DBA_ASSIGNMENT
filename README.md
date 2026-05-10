@@ -1,17 +1,15 @@
-markdown
 # DBA Assignment: NorthStar Urban Mobility Investigation
 
 ## Project Overview
 This repository contains the complete code and data for the NorthStar Urban Mobility and Logistics investigation report. The project uses Python, R, SQL, and MongoDB to identify root causes of operational failures.
 
 👤 **Author:** Amaan449  
-📅 **Date:** [Insert Date]  
+📅 **Date:**  05/05/2026  
 🎓 **Course:** Databases and Analytics (DBA)  
 
-**Final Report:** [NorthStar_Report.pdf](NorthStar_Report.pdf)
+**Final Report:** [.pdf](MohammedAmaanDanish_32147390_DBA_Report.pdf)
 
 ## Repository Structure
-```text
 DBA_ASSIGNMENT/
 ├── README.md
 ├── requirements.txt
@@ -19,11 +17,8 @@ DBA_ASSIGNMENT/
 ├── notebooks/
 │   └── final_analysis.ipynb
 ├── data/
-│   └── *.csv  
-├── outputs/
+│   └── All original.csv  
 │   ├── orders_full_final.csv
-│   └── figures/
-└── .gitignore
 Getting Started
 1. Clone the Repository
 bash
