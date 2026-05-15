@@ -4,6 +4,8 @@
 **Course:** Databases and Analytics (DBA)  
 **Submission Date:** 05/05/2026  
 
+** Please use in Google Colab 
+
 ## 1. Project Overview
 
 NorthStar Urban Mobility and Logistics is a rapidly growing transport and delivery company operating across several UK cities. Despite increasing demand, the company has experienced deteriorating operational performance – higher delays, rising complaints, and increasing costs.
